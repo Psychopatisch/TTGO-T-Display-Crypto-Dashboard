@@ -46,4 +46,4 @@ And to change the currency only replace `EUR` with `USD` and ain the lower part 
 
 ![image2](https://user-images.githubusercontent.com/64910238/119896723-b8405200-bf3f-11eb-92d2-c0d29674ccc2.png)
 
-### Please check out [my YouTube channel]https://www.youtube.com/channel/UCwRPvvOtEYXzyF_x51hdIvA/about to support and motivate me to do more stuff and videos.... <3
+### Please check out [my YouTube channel](https://www.youtube.com/channel/UCwRPvvOtEYXzyF_x51hdIvA/about) to support and motivate me to do more stuff and videos.... <3
