@@ -1,3 +1,15 @@
+/*******************************************************************
+    A project to display crypto currency prices using an TTGO T-Display ESP32
+
+    Main Hardware:
+    - TTGO T-Display ESP32 Board
+
+    Written by Psychopatisch
+    https://github.com/Psychopatisch
+    https://www.youtube.com/channel/UCwRPvvOtEYXzyF_x51hdIvA
+ *******************************************************************/
+
+
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
