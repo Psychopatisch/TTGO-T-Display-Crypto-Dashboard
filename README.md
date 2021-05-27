@@ -45,3 +45,5 @@ And to change the currency only replace `EUR` with `USD` and ain the lower part 
 - Select the port and upload 
 
 ![image2](https://user-images.githubusercontent.com/64910238/119896723-b8405200-bf3f-11eb-92d2-c0d29674ccc2.png)
+
+### Please check out my YouTube channel to support and motivate me to do more stuff and videos.... <3
