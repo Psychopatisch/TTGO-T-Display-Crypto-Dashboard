@@ -3,7 +3,7 @@
 ## 1. Get the necessary Arduino libraries
 
 - [ArduinoJson](https://www.ardu-badge.com/ArduinoJson/6.10.1) install guide
-- Download the [TFT_eSPI library](https://github.com/Xinyuan-LilyGO/TTGO-T-Display) repository and change the `User_Setup_Select` file by commenting `#include <User_Setup.h>` and uncommenting `#include <User_Setups/Setup25_TTGO_T_Display.h>` to get the right driver for your display
+- Download the [TFT_eSPI library](https://github.com/Xinyuan-LilyGO/TTGO-T-Display) repository and change the `User_Setup_Select` file by commenting `#include <User_Setup.h>` and uncommenting `#include <User_Setups/Setup25_TTGO_T_Display.h>` to get the right driver for your display. After just move the TFT_eSPI folder into the Arduino library folder under the Documents as described in the tutorial.
 
 ## 2. Get the ESP32 board driver
 
