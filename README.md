@@ -1,7 +1,5 @@
 # TTGO-T-Display-Crypto-Display-using-Kraken-API!
 
-[image2](https://user-images.githubusercontent.com/64910238/119894632-220b2c80-bf3d-11eb-8f21-a1d7c37864fb.jpeg)
-
 
 ## 1. Get the necessary Arduino libraries
 
