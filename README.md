@@ -42,3 +42,5 @@ If you change the crypto currency you have to format the x coordinates to center
 - Flash Frequency: `40MHz`
 - Core Debug Level: `None`
 - Select the port and upload 
+
+![image2](https://user-images.githubusercontent.com/64910238/119896723-b8405200-bf3f-11eb-92d2-c0d29674ccc2.png)
