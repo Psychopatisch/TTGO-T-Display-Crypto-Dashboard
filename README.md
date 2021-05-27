@@ -30,7 +30,8 @@
 
 `String cryptoDisplayName = "CARDANO";`
 
-If you change the crypto currency you have to format the x coordinates to center the values and co. at the `tft.drawString(txt, x, y, font)` parts where it displays the texts
+If you change the crypto currency you have to format the x coordinates to center the values and co. at the `tft.drawString(txt, x, y, font)` parts where it displays the texts.
+And to change the currency only replace `EUR` with `USD` and ain the lower part the  `tft.drawString("EUR", ...)` to  `tft.drawString("USD", ...)`
 
 - 
 - Maybe change the data refresh rate 
