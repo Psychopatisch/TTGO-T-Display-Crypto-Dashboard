@@ -1,4 +1,4 @@
-# TTGO-T-Display-Crypto-Display-using-Kraken-API!
+# TTGO-T-Display-Crypto-Dashboard!
 
 ### This Arduino based cryptodisplay displays a cryptos name, 24h high, 24h low and current price. It additionally monitors wether the current price is higher or lower than the price from the request before (default period of 2.5 seconds). Then the current price gets displayed green or red. 
 
